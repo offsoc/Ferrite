@@ -31,7 +31,7 @@
     <PackageReference Include="DotNext" Version="4.7.4" />
     <PackageReference Include="DotNext.IO" Version="4.7.4" />
     <PackageReference Include="DotNext.Unsafe" Version="4.7.4" />
-    <PackageReference Include="MessagePack" Version="2.4.35" />
+    <PackageReference Include="MessagePack" Version="2.5.187" />
   </ItemGroup>
   <ItemGroup>
     <None Update="TL\mtproto\T4Template.hhh">
