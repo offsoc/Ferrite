@@ -336,7 +336,7 @@
     <PackageReference Include="RocksDB" Version="7.5.3.32564" />
     <PackageReference Include="StackExchange.Redis" Version="2.6.66" />
     <PackageReference Include="CassandraCSharpDriver" Version="3.18.0" />
-    <PackageReference Include="MessagePack" Version="2.4.35" />
+    <PackageReference Include="MessagePack" Version="2.5.187" />
     <PackageReference Include="MessagePackAnalyzer" Version="2.4.35">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
